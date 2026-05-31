@@ -1,40 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Skølfåst",
+		"leaderName": "Kåvhål",
+		"adjective": ["Skållic"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Kåvhål the great, you united the scattered Skållic tribes of the tundra into one of the greatest kingdoms ever known.",
+		"startIntroPart2": "May the winds bring you strength, the seas prosperity.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Death comes to all, your time has come!",
+		"attacked": "May the wind tear you down, and the waves wash what remains away!",
+		"defeated": "Very Well. Death comes to all in the end, we will surely see you again.",
+		"introduction": "Welcome! I offer you food and shelter!",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralHello": "Welcome!",
+		//"neutralLetsHearIt": ["Go on.","What do you say?","What have you brought today?"],
 		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Why have you disturbed us?",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","Your outrageous demands dishonor us both!"],
 		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"tradeRequest": "Perhaps we can help each other",
+		"denounced": "Your weak people hide behind your empty words.",
+		"declaringfriendship": "United we cannot fall. Let us be stand together!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Dølfåst","Skåldøl","Dølfåst","Baltåfåst","Dåchølstu","Vanårkfåst","Dølulstu","Vanåvuk","Dulfåst",
+			"Hålfåst","Kørfåst","Årfåst"]
 	}
 ]
