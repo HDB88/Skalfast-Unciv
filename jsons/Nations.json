@@ -32,7 +32,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Fishing People",
-		"uniques":["Enables embarkation for land units <starting from the [Ancient Era]>"]
+		"uniques":["Enables embarkation for land units <starting from the [Ancient Era]>", "Starts with [Animal Husbandry]"]
 		"cities": ["Dølfåst","Skåldøl","Dølfåst","Baltåfåst","Dåchølstu","Vanårkfåst","Dølulstu","Vanåvuk","Dulfåst",
 			"Hålfåst","Kørfåst","Årfåst"]
 	}
