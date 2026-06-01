@@ -5,7 +5,7 @@
 		"uniqueTo": "Skølfåst",
 		"replaces": "Swordsman",
 		"upgradesTo": "Longswordsman",
-		"movement": 2,
+		"movement": 3,
 		"strength": 14,
 		"rangedStrength": 18,
 		"range": 2,
